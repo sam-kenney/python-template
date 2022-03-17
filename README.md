@@ -37,3 +37,6 @@ This is the setup file used to configure nox and Flake8. You can add more config
 
 ### LICENSE.md
 This is a generic License that I provide with each of my personal projects. Read more about licenses [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
+### Makefile
+This is a set of scripts used to build, test, and deploy a python library to Pypi.
